@@ -1237,6 +1237,7 @@ html[dir=rtl] .icon-copy {
 }
 #language-select, .footer-hero-copy, .footer-hero-cta, .footer-hero-title {
     margin: 0;
+    font-family: inherit;
 }
 .footer-hero-title {
     font-size: 32px;
